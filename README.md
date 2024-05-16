@@ -1,4 +1,4 @@
-# factory_automation_project_C-
+# factory_automation_project_C#-
 #### Fabrikada çalışan bir işçinin, robotun hareketini izleyeceği ve hareket bilgisini veri tabanında tutacağı
 #### bir otomasyon yapıldı. 
 ### Bu otomasyonda Yönetici, çalışan ekleme ve silme işlemlerini
