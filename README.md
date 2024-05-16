@@ -1,6 +1,6 @@
 # factory_automation_project_C-
 #### Fabrikada çalışan bir işçinin, robotun hareketini izleyeceği ve hareket bilgisini veri tabanında tutacağı
-#### bir otomasyon yapılacaktır. 
+#### bir otomasyon yapıldı. 
 ### Bu otomasyonda Yönetici, çalışan ekleme ve silme işlemlerini
 ### yapacaktır.
 #### Çalışan ise robot ile ilgili işlemlerini yapacaktır. Veri tabanı tarafında Yönetici, Çalışan
