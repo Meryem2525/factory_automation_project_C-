@@ -1,0 +1,32 @@
+C:\Users\meyrema\source\repos\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\meyrema\source\repos\Proje2\bin\Debug\Proje2.exe
+C:\Users\meyrema\source\repos\Proje2\bin\Debug\Proje2.pdb
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.csproj.AssemblyReference.cache
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Robot_form.resources
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Yönetici_Giris_Bilgileri.resources
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Çalışan_Ekle__Çıkar.resources
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Çalışan_Giris_Bilgileri.resources
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Çalışan_çıkarma.resources
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.exe
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.pdb
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\meyrema\source\repos\Proje2\obj\Debug\Proje2.Çalışan_ekle_çıkar_ekranı.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\bin\Debug\Proje2.exe
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\bin\Debug\Proje2.pdb
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.csproj.AssemblyReference.cache
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Robot_form.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Yönetici_Giris_Bilgileri.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Çalışan_Ekle__Çıkar.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Çalışan_ekle_çıkar_ekranı.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Çalışan_Giris_Bilgileri.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.Çalışan_çıkarma.resources
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.exe
+C:\Users\meyrema\Desktop\222701005_Meyrema_Aybil_Final Ödevi\Proje2\obj\Debug\Proje2.pdb
